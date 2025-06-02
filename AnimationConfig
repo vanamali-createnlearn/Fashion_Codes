@@ -1,0 +1,9 @@
+local AnimationConfig = {}
+
+AnimationConfig.Animations = {
+	Anim1 = "rbxassetid://507770239", -- Wave
+	Anim2 = "rbxassetid://507770677", -- Cheer
+	Anim3 = "rbxassetid://507771019", -- Dance1
+}
+
+return AnimationConfig
